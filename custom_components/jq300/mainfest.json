@@ -1,0 +1,8 @@
+{
+    "domain": "jq300",
+    "name": "jq300",
+    "documentation": "https://github.com/jkkwon83/jq300/",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["paho-mqtt==1.5.0"]
+  }
